@@ -50,7 +50,7 @@ By Wick
 
 A telegram bot to generate pyrogram and telethon string session by Wick
 
-Source Code : [Click Here](https://github.com/johncarter371/StringSessionBot)
+Source Code : [Click Here](https://github.com/johncarter371/StringSession2.0)
 
 Framework : [Pyrogram](docs.pyrogram.org)
 
